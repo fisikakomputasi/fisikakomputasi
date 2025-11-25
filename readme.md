@@ -13,4 +13,4 @@
 - Komputasi Atom
 - Fisika Komputasi Lanjut
 
-see more: https://roadmap.sh/ai/computational-physics-with-medical-and-environmental-applications
+see more: [https://roadmap.sh/ai/computational-physics-with-medical-and-environmental-applications](https://roadmap.sh/r/computational-physics-with-medical-and-environmental)
